@@ -1,0 +1,16 @@
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+main {
+    display: flex;
+}
+
+div {
+    margin: 10px;
+}
+
+li:hover {
+    color: green;
+}
